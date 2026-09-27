@@ -1,0 +1,1878 @@
+{
+  "snapshot_date": "2026-09-27",
+  "paper_snapshot_date": "2026-09-26",
+  "quote_items": 75,
+  "paper_figures": [
+    {
+      "figure": "01",
+      "purpose": "头图：问题、信号、结果与整体构图",
+      "source_name": "dvca head 0912.drawio",
+      "current_file": "drawio/fig-01-overview.drawio",
+      "current_bytes": 8656728,
+      "current_sha256": "37223510e62dc39263d479289a0a7f2deab220a557f5a8353c07c92f982beea5",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_监督符号与间距微调_0926",
+          "id": "00_监督符号与间距微调_0926",
+          "objects": 664,
+          "xml_sha256": "b8f1b6a0de097082dc40c8325e0fb9a7dc3e78bc844b11682062532ccec397db"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_realcolors_head_20260922.pdf",
+          "bytes": 5229296,
+          "sha256": "165c3bc10f34deaf522ad4d0ccec5197d07c0a89de2b763546019ce6e0398475"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "02",
+      "purpose": "方法主图：共享流程、符号和箭头关系",
+      "source_name": "dvca main 0914.drawio",
+      "current_file": "drawio/fig-02-method-grpo.drawio",
+      "current_bytes": 3841337,
+      "current_sha256": "e84d1034f6db48d45df205f6689002f35a5f7e4100fa456b2fe47ca457f710a7",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_主图符号字体统一_0924",
+          "id": "main_symbol_font0924",
+          "objects": 420,
+          "xml_sha256": "0b65bb518ad3cfa72592d7e90af48f31edd754211f2b5153f80fd83cc6f4084f"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_main_symbols_20260924.pdf",
+          "bytes": 444936,
+          "sha256": "3c0c9801e911ab7955db12b9981b81a5e03b5675467903afa3eb65404f953799"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "03",
+      "purpose": "伪代码：由外到内的算法层次",
+      "source_name": "dvca pcode 0915.drawio",
+      "current_file": "drawio/fig-03-pseudocode.drawio",
+      "current_bytes": 2253287,
+      "current_sha256": "294ba699d5e615c8c7dd190beac88c5b0b8cbbe80dcc6fc023209de27934b4e3",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_下划线字号微调_0922",
+          "id": "legendunderscore0922_pcode",
+          "objects": 44,
+          "xml_sha256": "e7435e0e5da6f95b27f750c12361731d320a3225c1177e1a01c551414525588f"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_refined_pcode_20260922.pdf",
+          "bytes": 18660,
+          "sha256": "158030f3188686e0fcdf9bc9a4abe5c7481903d6b6d7a12e22ef7afdf05bf187"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "04",
+      "purpose": "BC 接口：同一信号在另一训练流程中的位置",
+      "source_name": "dvca bc 0915.drawio",
+      "current_file": "drawio/fig-04-method-bc.drawio",
+      "current_bytes": 3823592,
+      "current_sha256": "2649c37b304bee14f0b88cf074858a88bf04765e9f970f6ae3b8bb8c220c3039",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_bc",
+          "objects": 205,
+          "xml_sha256": "505d889a6bbaa7c3c6e4abf7ec0030ee94152b70ed5e67a9c443bda996464136"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_bc_20260920_r2.pdf",
+          "bytes": 384811,
+          "sha256": "8b4538ced873de46bb99cb3420fdbd0016d2e6050b0e00f5e2c4e21ccfe9e284"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "05",
+      "purpose": "实验场景：照片、任务名、分区与间距",
+      "source_name": "dvca exp scene 0916.drawio",
+      "current_file": "drawio/fig-05-task-scenes.drawio",
+      "current_bytes": 14869875,
+      "current_sha256": "37b310eb18fe4b63f865eb06b80ef352563fdb011c9797fa36a36dc491c0cbdc",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_RoboTwin_LIBERO_0926",
+          "id": "01_LIBERO",
+          "objects": 105,
+          "xml_sha256": "c7105b0c6a3da322558cf658b7259ffd2e2fa40a814d63823fd3846dbb0ec3fa"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_realcolors_scene_20260922.pdf",
+          "bytes": 14084254,
+          "sha256": "b006f0aba8cd86e7ccfbe19e6229f103178938452dda8b8acf5ef412457ceeac"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "06",
+      "purpose": "真机柱图：颜色、方法顺序、轴和组距",
+      "source_name": "dvca real chart 0916.drawio",
+      "current_file": "drawio/fig-06-real-results.drawio",
+      "current_bytes": 3720829,
+      "current_sha256": "aa0b95a8f62421470988b0cb22ba32d3fdd296b661cdcc23a9e254d2bc074a9d",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_柱距与刻度对齐_0926",
+          "id": "bar-spacing-20260926",
+          "objects": 170,
+          "xml_sha256": "e84b707054ee4fccc2ee14fef99c81b2f53de3b73bedeef2d77730501fb7d384"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_realcolors_bar_20260922.pdf",
+          "bytes": 28162,
+          "sha256": "c10ef29534bb8073a3f7124902bf437e1b14e24f65403d1a6b99dd040d6b43c0"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "07",
+      "purpose": "真机曲线：与柱图统一的颜色及图例",
+      "source_name": "dvca real sample chart 0916.drawio",
+      "current_file": "drawio/fig-07-real-learning-curves.drawio",
+      "current_bytes": 3661920,
+      "current_sha256": "f593553514d117967d9d6d787fe7e3020686a7d6f8d4511187a178a04c8a6800",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_图例顺序统一_0922",
+          "id": "legendunderscore0922_sample",
+          "objects": 166,
+          "xml_sha256": "64a80f64ae4572f93051b62449512c916ecf33a240629bfe4f0b14242fce42cb"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_refined_sample_20260922.pdf",
+          "bytes": 41135,
+          "sha256": "de2e439900ea255d85fdbb0ee148469488b577e41ed577059c26a338329921cc"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "08",
+      "purpose": "对比与消融：多面板、曲线和图例",
+      "source_name": "dvca curve comp&abl 0917.drawio",
+      "current_file": "drawio/fig-08-comparison-ablation.drawio",
+      "current_bytes": 3770632,
+      "current_sha256": "a6a005055b6c2f38944bd83df116f8594775d92694bd4a6b3eeda9f303902c4b",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_FilterIL稳定版数据_0926",
+          "id": "00_FilterIL稳定版数据_0926",
+          "objects": 246,
+          "xml_sha256": "03a22a981a7d63a51a6df819799530d65ec87f28f439fd015db70f2c59914faa"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_curve_legend_centered_20260924.pdf",
+          "bytes": 46161,
+          "sha256": "bf66a7d3c8e62a0462639f691c7bd7e1f2b237cf205d5b8d8c6fb88cfee5947b"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "09",
+      "purpose": "DV 训练分析：GRPO 与 Filter IL 两张图",
+      "source_name": "dv_training_and_bc8_trials.drawio",
+      "current_file": "drawio/fig-09-dv-training.drawio",
+      "current_bytes": 4298902,
+      "current_sha256": "98603f89ecdef59323801c5eb981c0b5ade0b902c01a513141fa8aecf9461d3c",
+      "selected_pages": [
+        {
+          "index": 1,
+          "name": "01_GRPO_紧凑图例_0925",
+          "id": "legend_compact_grpo_20260925",
+          "objects": 29,
+          "xml_sha256": "ad20a949f5ebced74336a8dd7edfd13e685788082badd0898c4c5877606df8c2"
+        },
+        {
+          "index": 0,
+          "name": "0925 曲线风格对齐",
+          "id": "training_line_style_20260925",
+          "objects": 35,
+          "xml_sha256": "68d595582f3e921f2fc1efe1c647175a9cb54de11f64349c0aa95aa47b5c4064"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/grpo_dv_concentration.pdf",
+          "bytes": 31425,
+          "sha256": "99d840e64118029cfc407cf41e76f53736195169cbeb651e6e1cef5689762660"
+        },
+        {
+          "path": "figures/filter_il_8u5_training.pdf",
+          "bytes": 34061,
+          "sha256": "4ffe2ee47bd574a01bf89c526ab01cc5598cf647ce646110ead6013538da9d20"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "10",
+      "purpose": "逐动作位置：横轴、符号与统计口径",
+      "source_name": "dv_by_action_position_20260926.drawio",
+      "current_file": "drawio/fig-10-action-position.drawio",
+      "current_bytes": 49175,
+      "current_sha256": "89e1b995d17b15b2906ec6cb04f89452bb17460455d43de81e788cb5879fb480",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "00_Denoising_Variance_axis_0926",
+          "id": "dv27_axis",
+          "objects": 104,
+          "xml_sha256": "898b35d2b1196f8568837fb3cb9a9203b4a7b753ff945a2f04197b380db03993"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dv_by_action_position_20260925.pdf",
+          "bytes": 33110,
+          "sha256": "59eec4e9bcc157f5f3df8ffd83d2b2f8d97624452d854e7d445b1edd07a5e083"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "11",
+      "purpose": "PRM 案例：曲线与动作阶段对应",
+      "source_name": "dvca prm case 0923.drawio",
+      "current_file": "drawio/fig-11-prm-case.drawio",
+      "current_bytes": 219833,
+      "current_sha256": "1d7e303e61facddec00002874fa4b7d7eec021ac275bc535a80dff321a606296",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "RynnValue case - R87",
+          "id": "prm-r87-case",
+          "objects": 56,
+          "xml_sha256": "b1e51257a06786b3c52bf225c3db20aac7e66adfff12890eaaf74586b82d903d"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/dvca_prm_case_20260923.pdf",
+          "bytes": 217953,
+          "sha256": "378f17e3e45c5d266f054a5b99559838ffe10999ee08c6696c156ceaeef54480"
+        }
+      ],
+      "object_changes": 0
+    },
+    {
+      "figure": "12-18",
+      "purpose": "14 个逐动作 DV 案例：统一版式与时序图片",
+      "source_name": "DV_选中14例_20260925.drawio",
+      "current_file": "drawio/fig-12-18-dv-cases.drawio",
+      "current_bytes": 3798571,
+      "current_sha256": "ab7e7c5042d3e882bce188f158cc6cd62f1f153d46288ca663c5085423c8a73d",
+      "selected_pages": [
+        {
+          "index": 0,
+          "name": "0925 曲线风格对齐",
+          "id": "cases_line_style_20260925",
+          "objects": 1138,
+          "xml_sha256": "9d801cb257aab5c6a19b8adc8da169fb102bf04ac0157d630d5517279970e10f"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "figures/DV_case_01_adjust_bottle.pdf",
+          "bytes": 177158,
+          "sha256": "2484c3c9394eb44d3c11826b21460957ac362055b16ba6a09cc96777b7865510"
+        },
+        {
+          "path": "figures/DV_case_02_lift_pot.pdf",
+          "bytes": 161935,
+          "sha256": "68c3966bb262827b8d2e3c8d3d4cca04df72aef8d004d57070a733d1012b8b72"
+        },
+        {
+          "path": "figures/DV_case_03_move_pillbottle_pad.pdf",
+          "bytes": 165532,
+          "sha256": "5a1eb2a4f7841c5496dae6f39673e2a4b2894e6812e8cd4c42c4fd1727ecd3f0"
+        },
+        {
+          "path": "figures/DV_case_04_move_playingcard_away.pdf",
+          "bytes": 148494,
+          "sha256": "f4f93a43181c6153e0f13ee3ec73aa8b2763108b22b4735c954496f168585464"
+        },
+        {
+          "path": "figures/DV_case_05_place_a2b_left.pdf",
+          "bytes": 183229,
+          "sha256": "9766ed0c1d1b628436dd7b6aff3fec93b193555823d45b170ac30c52f8787b73"
+        },
+        {
+          "path": "figures/DV_case_06_place_cans_plasticbox.pdf",
+          "bytes": 209712,
+          "sha256": "730bc2aa3010317909d9a9f0d96eea0e26077bca1db4fdcc6ab7665ade0392c8"
+        },
+        {
+          "path": "figures/DV_case_07_place_shoe.pdf",
+          "bytes": 206395,
+          "sha256": "6392755a64db6e6eb73475979f28e7bb6ea58da57844298226f195e787c9fa93"
+        },
+        {
+          "path": "figures/DV_case_08_rotate_qrcode.pdf",
+          "bytes": 177586,
+          "sha256": "88a0769ed9ee6c6282ed0ebafd234f649c0ae82b4ee548cde8e301f489e99f04"
+        },
+        {
+          "path": "figures/DV_case_09_scan_object.pdf",
+          "bytes": 172508,
+          "sha256": "223b977aa8aef2f4caa694ed9b9489fcc0b1f8e83245f76f0cbf197320fd8de0"
+        },
+        {
+          "path": "figures/DV_case_10_stamp_seal.pdf",
+          "bytes": 150042,
+          "sha256": "034d693d502762bcb51466484e70f43afdb05c647c0865f5a070b30c773ea271"
+        },
+        {
+          "path": "figures/DV_case_11_beat_block_hammer.pdf",
+          "bytes": 186433,
+          "sha256": "3d9578d892746774ee29b05a524495cdf8a46cf8c12b89f21d29114ce597af07"
+        },
+        {
+          "path": "figures/DV_case_12_place_phone_stand.pdf",
+          "bytes": 157006,
+          "sha256": "740d610cc11e5517ea3af16641780d299a86121de95a8e409a8672655000a05f"
+        },
+        {
+          "path": "figures/DV_case_13_handover_block.pdf",
+          "bytes": 206613,
+          "sha256": "24bbd9844360ebe49a136e2ffa6f2cbaa6067af298b98fc069c8206c9eee8c15"
+        },
+        {
+          "path": "figures/DV_case_14_open_microwave.pdf",
+          "bytes": 197104,
+          "sha256": "677b95c2832800f8087a157aa5471a0e6b8a8d66f6608510e1c06c0521a79531"
+        }
+      ],
+      "object_changes": 0
+    }
+  ],
+  "complete_sources": [
+    {
+      "name": "DV50_每任务一例_20260924.drawio",
+      "category": "reference",
+      "bytes": 63073618,
+      "sha256": "0a37d949221a78728383848ef79db7c86acf8f9802bbc998d852da250ef7836b",
+      "page_count": 26,
+      "pages": [
+        {
+          "index": 0,
+          "name": "0925 标题留白收紧 · 14例",
+          "id": "title-gap-tightened-20260925-master",
+          "objects": 1138,
+          "xml_sha256": "1b18d2a000f9c27096f695dd071808027aaae354e5243e4e21bacbe2f5b08da0"
+        },
+        {
+          "index": 1,
+          "name": "00_Selected_14_cases",
+          "id": "selected_dv_cases_20260925",
+          "objects": 1138,
+          "xml_sha256": "aebfee81709f3513072fa81322d1fbecdb2c199f1476ac313ed825bf281aa99b"
+        },
+        {
+          "index": 2,
+          "name": "01_Action_level_index",
+          "id": "action25_atlas_0",
+          "objects": 101,
+          "xml_sha256": "02765254021da832a76fc558913327e87e8ea26b94aaaeb17c950d600bf65001"
+        },
+        {
+          "index": 3,
+          "name": "Action_01_A_place_object_basket",
+          "id": "action25_atlas_1",
+          "objects": 279,
+          "xml_sha256": "ddd5df8e55186fcab5ff774cee7111703edfe6c606d3c4cfe2a77a465ab735a8"
+        },
+        {
+          "index": 4,
+          "name": "Action_02_A_place_bread_basket",
+          "id": "action25_atlas_2",
+          "objects": 250,
+          "xml_sha256": "f02c5d9dc26273bc3c953338df885bb20b400f29278284e24450524b35f87f76"
+        },
+        {
+          "index": 5,
+          "name": "Action_03_A_place_object_stand",
+          "id": "action25_atlas_3",
+          "objects": 271,
+          "xml_sha256": "c4faf4d00aa5e77d4d5ac758dc14094723afd7f9c2f367a32c48ecdee89186dc"
+        },
+        {
+          "index": 6,
+          "name": "Action_04_A_turn_switch",
+          "id": "action25_atlas_4",
+          "objects": 261,
+          "xml_sha256": "03263e5f1e2c831b16bf9e61ee1c720df7acb51a88e6d4b8a407fd30395b7963"
+        },
+        {
+          "index": 7,
+          "name": "Action_05_B_handover_mic",
+          "id": "action25_atlas_5",
+          "objects": 269,
+          "xml_sha256": "bcd4f9daacebd339d76b10550ab085ea1f110a2aeabb3d2bb84a8988b7dd11a0"
+        },
+        {
+          "index": 8,
+          "name": "Action_06_B_move_playingcard_away",
+          "id": "action25_atlas_6",
+          "objects": 257,
+          "xml_sha256": "0a69772a31c4fd2098b269c05b2ad6c1f6c20e5a51331dea25188ec75ad9dbe1"
+        },
+        {
+          "index": 9,
+          "name": "Action_07_B_place_a2b_right",
+          "id": "action25_atlas_7",
+          "objects": 270,
+          "xml_sha256": "8033af0e543d93ab354403a94d1e7615f2e617a711ad1befea768d00e503be8c"
+        },
+        {
+          "index": 10,
+          "name": "Action_08_B_place_shoe",
+          "id": "action25_atlas_8",
+          "objects": 325,
+          "xml_sha256": "f8564cc4ae8bbbfe594a3ad4f30d9c923d0b9d1c4b1fc42d40d66d3e4e467db5"
+        },
+        {
+          "index": 11,
+          "name": "Action_09_B_stack_blocks_two",
+          "id": "action25_atlas_9",
+          "objects": 289,
+          "xml_sha256": "9f01415e4c4d7b2d4375011a19cc75b82f458cd018c956917e9c3be274b856bd"
+        },
+        {
+          "index": 12,
+          "name": "Action_10_C_click_alarmclock",
+          "id": "action25_atlas_10",
+          "objects": 240,
+          "xml_sha256": "7369819a9741155be7b27b759f6ec97c0bfef578f76bb4ec9e56fe0051f72514"
+        },
+        {
+          "index": 13,
+          "name": "Action_11_C_place_phone_stand",
+          "id": "action25_atlas_11",
+          "objects": 249,
+          "xml_sha256": "2cb9f1a9d0c105fb6885a8495182c98eef42c0b788d5c40faf3395a6d027b493"
+        },
+        {
+          "index": 14,
+          "name": "00_Index_and_scope",
+          "id": "atlas_0",
+          "objects": 102,
+          "xml_sha256": "98120ea2a93f30f14fabb9cc181700a8296f48bc2562b6d4035be790084d55b4"
+        },
+        {
+          "index": 15,
+          "name": "01_A_place_object_basket",
+          "id": "atlas_1",
+          "objects": 288,
+          "xml_sha256": "91ce0de74163929f18a51bff6e778de742430fa607a6d8198c0a1261701c0e8c"
+        },
+        {
+          "index": 16,
+          "name": "02_A_place_bread_basket",
+          "id": "atlas_2",
+          "objects": 283,
+          "xml_sha256": "c963809c04b4ab12b8889084cbe9f42f7e078ad01aa6e3dfd2aae620446bb22b"
+        },
+        {
+          "index": 17,
+          "name": "03_A_place_object_stand",
+          "id": "atlas_3",
+          "objects": 270,
+          "xml_sha256": "b99d7ea44e8a4726a6e57b2b26437791beeaf922ddb2bd7a5f74bdae8963f24a"
+        },
+        {
+          "index": 18,
+          "name": "04_A_turn_switch",
+          "id": "atlas_4",
+          "objects": 240,
+          "xml_sha256": "17a7d139b1a0c26c418be1c88fbfbf3fae2f640674dba14adf4be7e4cda884ae"
+        },
+        {
+          "index": 19,
+          "name": "05_B_handover_mic",
+          "id": "atlas_5",
+          "objects": 237,
+          "xml_sha256": "f214162910935c8de3037245f781a2df6767381ca93f3be0c44937b43c0c0ce4"
+        },
+        {
+          "index": 20,
+          "name": "06_B_move_playingcard_away",
+          "id": "atlas_6",
+          "objects": 206,
+          "xml_sha256": "19c2450cd12c2507ca0b315afdfbfb3fe94157ff684fb742ba0f104556daf228"
+        },
+        {
+          "index": 21,
+          "name": "07_B_place_a2b_right",
+          "id": "atlas_7",
+          "objects": 234,
+          "xml_sha256": "065108b31808913514bbcab5c11cfbf9530ba2cb80e60e68a6bad47430a2e9bc"
+        },
+        {
+          "index": 22,
+          "name": "08_B_place_shoe",
+          "id": "atlas_8",
+          "objects": 251,
+          "xml_sha256": "49ee307d5cc2e3831d09b577f060a16cd79a3e6b770fe4a880da60a774bed67f"
+        },
+        {
+          "index": 23,
+          "name": "09_B_stack_blocks_two",
+          "id": "atlas_9",
+          "objects": 251,
+          "xml_sha256": "64ca41221c72835fc268a5cea0c5eb6fde07ff7294422e8d8c65077961dee6ac"
+        },
+        {
+          "index": 24,
+          "name": "10_C_click_alarmclock",
+          "id": "atlas_10",
+          "objects": 244,
+          "xml_sha256": "11ce857efc92bffad82af5723f13ddfa2672569595bd5c8cbcfa7b73c811858b"
+        },
+        {
+          "index": 25,
+          "name": "11_C_place_phone_stand",
+          "id": "atlas_11",
+          "objects": 264,
+          "xml_sha256": "9867e15983e3cad6278fb66a000db96ee47d202922b3f84de6f57649d03fb729"
+        }
+      ]
+    },
+    {
+      "name": "dvca bc 0915.drawio",
+      "category": "paper",
+      "bytes": 37677368,
+      "sha256": "9a22afa3d02529a93b70e987daa47164e87e57309b949a66343dc1b52c2e7804",
+      "page_count": 10,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_bc",
+          "objects": 205,
+          "xml_sha256": "505d889a6bbaa7c3c6e4abf7ec0030ee94152b70ed5e67a9c443bda996464136"
+        },
+        {
+          "index": 1,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_bc",
+          "objects": 205,
+          "xml_sha256": "d0f7cfe22066cb636c1ede60e5acdc6cd2fdf83f316250a11ebc75bf86d8c41e"
+        },
+        {
+          "index": 2,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_bc",
+          "objects": 205,
+          "xml_sha256": "75a13117af23056bb17d0160ffa46499442037d58eca90d862c1cc43c7e83df4"
+        },
+        {
+          "index": 3,
+          "name": "00_BC_精修二_Update粉色_0915",
+          "id": "dvca-bc-r2-0915",
+          "objects": 206,
+          "xml_sha256": "5ee2954fe046410fbcdbb218650bc08487f308a8d8ccdfeb4fac2c91619e0387"
+        },
+        {
+          "index": 4,
+          "name": "00_BC_精修一_批注",
+          "id": "dvca-bc-r1-0915",
+          "objects": 200,
+          "xml_sha256": "39450a7d8ac74259ab4951f7df3408e5821fedffd4b2275509a97a6e1cbeb6b1"
+        },
+        {
+          "index": 5,
+          "name": "01_DV尺寸与Loss命名",
+          "id": "dvca-bc-dv-scale-r1-0915",
+          "objects": 195,
+          "xml_sha256": "fe34832833ef7a6b2215bbc79c7b26c5087986256c045c4c9452b85da18545d0"
+        },
+        {
+          "index": 6,
+          "name": "00_BC_简图提议",
+          "id": "bc0915-0",
+          "objects": 201,
+          "xml_sha256": "c65d9ccb8372805ad9bb4e60699ce214d9dba3462c8e821d35d8a236965bce2e"
+        },
+        {
+          "index": 7,
+          "name": "01_当前GRPO主图",
+          "id": "bc0915-main-reference",
+          "objects": 420,
+          "xml_sha256": "1f18ff0a2a75564acc191cce087a16569b4cfda815fb2d4bd0a0721d52904be0"
+        },
+        {
+          "index": 8,
+          "name": "02_BC与数据池素材",
+          "id": "bc0915-2",
+          "objects": 362,
+          "xml_sha256": "8b9fad6910a5eef5ab6ce2d2a0053372accb69fba8a619ad24f897fed5a236f5"
+        },
+        {
+          "index": 9,
+          "name": "03_信号与公式",
+          "id": "bc0915-3",
+          "objects": 129,
+          "xml_sha256": "217e7e14535c978f17baa1e028e2b50d19f8446e48496123dc503b927f3d5dd4"
+        }
+      ]
+    },
+    {
+      "name": "dvca curve comp&abl 0917.drawio",
+      "category": "paper",
+      "bytes": 76995089,
+      "sha256": "fde98bc91ac6aaaee4a79427a41ad48d578073554ac52c2382d691e504292b67",
+      "page_count": 23,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_FilterIL稳定版数据_0926",
+          "id": "00_FilterIL稳定版数据_0926",
+          "objects": 246,
+          "xml_sha256": "03a22a981a7d63a51a6df819799530d65ec87f28f439fd015db70f2c59914faa"
+        },
+        {
+          "index": 1,
+          "name": "00_线宽与星标_0925",
+          "id": "curve_line_star_20260925",
+          "objects": 246,
+          "xml_sha256": "e3a19146b8167e5117bb571c71ba7161d92e79346607b3e70375358a1dcaa3e8"
+        },
+        {
+          "index": 2,
+          "name": "00_图4模型名居中_0924",
+          "id": "curvelegendcenter0924",
+          "objects": 246,
+          "xml_sha256": "8f04df18e4ff491e6ddf20e8d023d9288968c803ea0b1050122e251f092dd61b"
+        },
+        {
+          "index": 3,
+          "name": "00_图例纯线条_0924",
+          "id": "curvelegendnodots0924",
+          "objects": 246,
+          "xml_sha256": "617652f51dd5760874b8295fac5ddc9cd3086090bfe3aba507b7c6ac2fd5715a"
+        },
+        {
+          "index": 4,
+          "name": "00_最短终点与自适应纵轴_0924",
+          "id": "curvecrop0924r2",
+          "objects": 261,
+          "xml_sha256": "9c701d717ab29ebda2a4db2406ac73d8a74d72eec26905a583b60dbc5d62f966"
+        },
+        {
+          "index": 5,
+          "name": "00_数据图例字体_批注修订_0924",
+          "id": "curvecomments0924",
+          "objects": 270,
+          "xml_sha256": "4690655c99b4e566321881665e5d9872d0a0a0121f31eb0604d5eadbd2e406b2"
+        },
+        {
+          "index": 6,
+          "name": "00_GRPOτ消融_图456重排_0924",
+          "id": "grpo_tau_integration0924",
+          "objects": 274,
+          "xml_sha256": "4103a5ffb0cee07bdc4db846260d5238d7d880009b6db71ca2b88a9fd96d7fe1"
+        },
+        {
+          "index": 7,
+          "name": "00_GRPO图1_新数据与坐标_0923",
+          "id": "grpo_axes_newdata_0923",
+          "objects": 242,
+          "xml_sha256": "7798af0629945b1a8df74056bd28401ee2c0e21ec7caeb8480bbe3d3384c0478"
+        },
+        {
+          "index": 8,
+          "name": "00_GRPO对比_MA20_批注修订_0923",
+          "id": "grpo_ma20_comparison_0923",
+          "objects": 244,
+          "xml_sha256": "8fbfed3a00f2d3ebac93103c94ab220ba9cce89949eadfafa45802e8d2fa6c46"
+        },
+        {
+          "index": 9,
+          "name": "00_GRPO128_消融窗口候选_0923",
+          "id": "grpo128_ablation_0923",
+          "objects": 1698,
+          "xml_sha256": "e377a1252acd991b3d5b199d5c2add5f7d78a15eab40eb3759f81d0da7c5acf2"
+        },
+        {
+          "index": 10,
+          "name": "00_图3纯线条修正_0921",
+          "id": "sampling_spacing0921",
+          "objects": 242,
+          "xml_sha256": "431bc45a271a0495718cc6e8815c1f21d54f77f3a6272aefd33dc6ccfa786e5f"
+        },
+        {
+          "index": 11,
+          "name": "00_最优曲线统一颜色_0921",
+          "id": "curve_colors0921",
+          "objects": 593,
+          "xml_sha256": "d9e7c0a3a07624d6d4c2a26dece321b4882a121a42bd69eb37729e3852872b18"
+        },
+        {
+          "index": 12,
+          "name": "00_批注修订_MA15_0921",
+          "id": "curve_annotations0921",
+          "objects": 594,
+          "xml_sha256": "63bb2beff540aeb3ead292308a70d7abdb5dd8abd5ada19ba6c9c232b2858d23"
+        },
+        {
+          "index": 13,
+          "name": "00_两组消融_MA15与窗口备选_0921",
+          "id": "ablation0921",
+          "objects": 1386,
+          "xml_sha256": "0d934c107b54c9094ab8b1cf7494ac2af1fce8107dfce90d9dd6c50ff2cd19ae"
+        },
+        {
+          "index": 14,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_curve",
+          "objects": 561,
+          "xml_sha256": "5d4268ebff68c09d505a08613fb7d2ef86c643c6442beb3193a02976ab7d4a1e"
+        },
+        {
+          "index": 15,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_curve",
+          "objects": 566,
+          "xml_sha256": "1cc230d4a39e1372e28b9b6d9addfeced3dc559049ec655fe0c1e9e71048de2e"
+        },
+        {
+          "index": 16,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_curve",
+          "objects": 565,
+          "xml_sha256": "38f0dbfcebd12f53951c3b97a4c4d39a850e387c185980f517884d0540dec215"
+        },
+        {
+          "index": 17,
+          "name": "01_RLT_MA5至50_候选_0920",
+          "id": "curve_windows_0920",
+          "objects": 164,
+          "xml_sha256": "3f963376919377fdd05f3867152aee95742e86d396e7a2718cafdfcc2946bd68"
+        },
+        {
+          "index": 18,
+          "name": "01_对比与消融_0917_v3",
+          "id": "curve_round3_web_20260917",
+          "objects": 637,
+          "xml_sha256": "30124bd424e232f52d3476fe1ec987a23de7738000de7107a98fe224aa2ae378"
+        },
+        {
+          "index": 19,
+          "name": "01_对比与消融_0917_v2",
+          "id": "curve_round2_20260917",
+          "objects": 983,
+          "xml_sha256": "abb19a3b68c93ff0680380c42fc07c0c885eecea8a99dc19afea5a0c5b2ebc6e"
+        },
+        {
+          "index": 20,
+          "name": "02_RLT_逐轮与滑动平均候选",
+          "id": "curve_round2_windows_20260917",
+          "objects": 1160,
+          "xml_sha256": "f643f7a45ced188e30744eb01bed9b50f0e29adf3cae6963b3f23a216b980421"
+        },
+        {
+          "index": 21,
+          "name": "01_对比消融曲线_批注处理_0917",
+          "id": "curve_comp_abl_revision_20260917",
+          "objects": 805,
+          "xml_sha256": "7f9987a84d118ab56ebe210fd23b30a1eaf77c12fa6bf2255651999194002ed2"
+        },
+        {
+          "index": 22,
+          "name": "第 1 页",
+          "id": "dYL8L6r1J0SLAT9hdiBf",
+          "objects": 652,
+          "xml_sha256": "5d6aaafebcccdbb24aed4643ae63bcddd489c95745278a77cc69168007c3dd14"
+        }
+      ]
+    },
+    {
+      "name": "dvca exp material.drawio",
+      "category": "reference",
+      "bytes": 91507200,
+      "sha256": "cee89b22dcc28e5bd6c9033bcf80e08d5d7b1f9a27010629d08f23b3ca8b2e3f",
+      "page_count": 9,
+      "pages": [
+        {
+          "index": 0,
+          "name": "01_真机任务与帧标号",
+          "id": "exp_01",
+          "objects": 119,
+          "xml_sha256": "5becc464bb5a19b840015d541d532507908eb0015e66c8a65b16a01683623b20"
+        },
+        {
+          "index": 1,
+          "name": "02_任务成功率与吞吐量",
+          "id": "exp_02",
+          "objects": 954,
+          "xml_sha256": "2b4ce7123cc3961796d92c4acfacee355e7b788fde3fb5d98613e4219dcbdeef"
+        },
+        {
+          "index": 2,
+          "name": "03_真机训练曲线",
+          "id": "exp_03",
+          "objects": 351,
+          "xml_sha256": "d6ee008c68097dd23332dc4baad8a717976913e196b129275cb1c5d0aa52c1db"
+        },
+        {
+          "index": 3,
+          "name": "04_训练与OOD曲线",
+          "id": "exp_04",
+          "objects": 1645,
+          "xml_sha256": "c12b27630c7bd4febfac001a9367d0329fbb716b654af05cb1af4d56f7668b82"
+        },
+        {
+          "index": 4,
+          "name": "05_消融曲线与对比",
+          "id": "exp_05",
+          "objects": 2469,
+          "xml_sha256": "20c4e5dd3759f6e69409027fe8f49cd406c14cb4564449d1cb6d93f13a74e62a"
+        },
+        {
+          "index": 5,
+          "name": "06_任务信号与热图",
+          "id": "exp_06",
+          "objects": 10089,
+          "xml_sha256": "f65f8689fefda993df772f9a65cee6d274cf8ab43d71a14667da616e8896a463"
+        },
+        {
+          "index": 6,
+          "name": "07_真机9任务72帧",
+          "id": "exp_07",
+          "objects": 199,
+          "xml_sha256": "e8992ab4cd9ca8425ea0c6be85b569ad06cb96186bf46a38e6c6f8ace7efc0c1"
+        },
+        {
+          "index": 7,
+          "name": "08_仿真4任务与多视角",
+          "id": "exp_08",
+          "objects": 168,
+          "xml_sha256": "e2de4d35a3c40a55819707eb8b0f7e39ca1e86b69901eae98c981dd91e53eae2"
+        },
+        {
+          "index": 8,
+          "name": "09_DV实测与对应帧",
+          "id": "exp_09",
+          "objects": 586,
+          "xml_sha256": "bec043e1f43b84fb7e43518336f47adca9a1da90c5a852e2aae7db1c1224cb8f"
+        }
+      ]
+    },
+    {
+      "name": "dvca exp scene 0916.drawio",
+      "category": "paper",
+      "bytes": 139091540,
+      "sha256": "2546d91e81f97245b6f1a71e002fd1c671f68c3fdc4ee40edf5539def0884ee2",
+      "page_count": 11,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_RoboTwin_LIBERO_0926",
+          "id": "01_LIBERO",
+          "objects": 105,
+          "xml_sha256": "c7105b0c6a3da322558cf658b7259ffd2e2fa40a814d63823fd3846dbb0ec3fa"
+        },
+        {
+          "index": 1,
+          "name": "00_VGPO配色统一_0922",
+          "id": "realcolors0922_scene",
+          "objects": 104,
+          "xml_sha256": "06ae64c907b6c0ddd6380a1d9dad1d0dbaf83f83d305aaf76dbf9402fa5e116c"
+        },
+        {
+          "index": 2,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_scene",
+          "objects": 104,
+          "xml_sha256": "17a982d30fb57b6dba3bdba602f577d575eac2edc114ddc6780d60e6b9cf80ac"
+        },
+        {
+          "index": 3,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_scene",
+          "objects": 105,
+          "xml_sha256": "0586612379928d68ec01398841df4752695e9e5fc3e50c8ecc968c7c6f0f27bc"
+        },
+        {
+          "index": 4,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_scene",
+          "objects": 107,
+          "xml_sha256": "08084da5373184072ca8c426b4b19580a4903c14fbaa64e39500f099cab64b48"
+        },
+        {
+          "index": 5,
+          "name": "01_OOD视频分帧候选_0920",
+          "id": "scene_frames_0920",
+          "objects": 68,
+          "xml_sha256": "be7d7debcfd1d34bd1ac77d8751932fe275e25f4e5a218fa7eb68c25fd756295"
+        },
+        {
+          "index": 6,
+          "name": "02_RoboTwin_Clean_Randomized_0920",
+          "id": "scene_clean_rand_0920",
+          "objects": 48,
+          "xml_sha256": "5b4a218e557b70684f466e6b8b69d3936b654463253ac06d9111570ca4ccb31b"
+        },
+        {
+          "index": 7,
+          "name": "03_实验场景_Times与随机场景_0916",
+          "id": "scene_times_randomized_20260916",
+          "objects": 148,
+          "xml_sha256": "1794bc352c386b5347885aa3fea6169e3092a515383bd8f61f755c7b71d9c712"
+        },
+        {
+          "index": 8,
+          "name": "02_实验场景_精修二_0916",
+          "id": "scene_refine_20260916_round2",
+          "objects": 143,
+          "xml_sha256": "693095fee22cd04d488441a5f0ff69799a68e8090179b1f22f569a4caf51aec8"
+        },
+        {
+          "index": 9,
+          "name": "01_实验场景_批注处理_0916",
+          "id": "exp_scene_revision_20260916",
+          "objects": 150,
+          "xml_sha256": "0704757510fdc868e9c4bb811adf27b4058a5155a34d276cdfac24002ce81b85"
+        },
+        {
+          "index": 10,
+          "name": "第 1 页",
+          "id": "8LGrdrHPES1GlXvAwwsV",
+          "objects": 76,
+          "xml_sha256": "3ba5206c06df347797e019711a63b92853800494722e23cac424ff827d4588f9"
+        }
+      ]
+    },
+    {
+      "name": "dvca head 0912.drawio",
+      "category": "paper",
+      "bytes": 162263158,
+      "sha256": "09736df77f3ffe6d8894e8e19e4ed8bbf2715934729baf08935fcd8001b69547",
+      "page_count": 21,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_监督符号与间距微调_0926",
+          "id": "00_监督符号与间距微调_0926",
+          "objects": 664,
+          "xml_sha256": "b8f1b6a0de097082dc40c8325e0fb9a7dc3e78bc844b11682062532ccec397db"
+        },
+        {
+          "index": 1,
+          "name": "00_稳定版曲线与监督接口_0926",
+          "id": "00_稳定版曲线与监督接口_0926",
+          "objects": 664,
+          "xml_sha256": "1f7f3932587a25bd1c62cb6f87fb59bc9c18d1d105d62d9cba4ef86f6eec1302"
+        },
+        {
+          "index": 2,
+          "name": "00_RL Token全称_0926",
+          "id": "01_RL_Token",
+          "objects": 664,
+          "xml_sha256": "7414ebb9db3c742c18636adb41cd58de3c5f1b10f800cbf6d7ca76f44dc80bf4"
+        },
+        {
+          "index": 3,
+          "name": "01_浅红蓝与细边试版_0926",
+          "id": "02_Style_Trial",
+          "objects": 665,
+          "xml_sha256": "75e3e747994be7065c0e6bf1477d48cd2bbe49df8eddedd3c596e942636bdb44"
+        },
+        {
+          "index": 4,
+          "name": "00_GRPO新曲线_0923",
+          "id": "head_grpo0923",
+          "objects": 664,
+          "xml_sha256": "c40b07f950131a3eb5f5d5bf63d12bcb687beb4e297951b09403f3827fc27cce"
+        },
+        {
+          "index": 5,
+          "name": "00_蓝绿分区配色_0922",
+          "id": "headgreen0922",
+          "objects": 650,
+          "xml_sha256": "67fc19efb7dec3280b575dee509c2d948b2cbba85487bad9db48c59dcd7b77df"
+        },
+        {
+          "index": 6,
+          "name": "00_蓝色统一_0922",
+          "id": "revision0922_head",
+          "objects": 650,
+          "xml_sha256": "6356c61a60dd38604d49e9f05088dd1e5fb9a7faf3b0415c1ddae5e00363db1d"
+        },
+        {
+          "index": 7,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_head",
+          "objects": 650,
+          "xml_sha256": "18328ed802bb78b39eba85985c9bd48ed0cb672a92aa3084c148c7b324aa85ba"
+        },
+        {
+          "index": 8,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_head",
+          "objects": 657,
+          "xml_sha256": "4e2d05848635579c7172b6e3a827384feccb2fe7930646dce2b11cf8afe9a12a"
+        },
+        {
+          "index": 9,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_head",
+          "objects": 655,
+          "xml_sha256": "b8d058bc0d8c54263837b3ab32c0723bb65ed43a31123c896db42022b954fad2"
+        },
+        {
+          "index": 10,
+          "name": "01_RLT_MA5至50_候选_0920",
+          "id": "head_windows_0920",
+          "objects": 155,
+          "xml_sha256": "f2ea21b8f382dfdf3014c2fc9ad3cf841a8bd00244e85dcb00c6c2c8981d6cc6"
+        },
+        {
+          "index": 11,
+          "name": "02_RLT_85_90_95效率标注_0920",
+          "id": "head_thresholds_0920",
+          "objects": 86,
+          "xml_sha256": "8113dcddac86c5ff6e5bcfecec5d6ea73ed6df66f29cb6533b04388630bb4aa4"
+        },
+        {
+          "index": 12,
+          "name": "00_精修七_标签与短句",
+          "id": "dvca_revision7",
+          "objects": 668,
+          "xml_sha256": "f5163a78da4fcca9b6828942df0a14f5f28ebc96da8c3198a5cf15e38befc026"
+        },
+        {
+          "index": 13,
+          "name": "00_精修六_信号方法实验",
+          "id": "dvca_revision6",
+          "objects": 671,
+          "xml_sha256": "cd3f87665e5a5e4e4ab11c93184d7b3d4264684e6208d16ece3fa86326d1e4f5"
+        },
+        {
+          "index": 14,
+          "name": "00_精修五_逐条批注修订",
+          "id": "dvca_revision5",
+          "objects": 820,
+          "xml_sha256": "add41f44e2f3e1b4f1d308df364c292d6864c99eae6f41c618b89ec8f1e5e235"
+        },
+        {
+          "index": 15,
+          "name": "00_精修四_新批注与试样",
+          "id": "dvca_revision4",
+          "objects": 1122,
+          "xml_sha256": "7a6cb19c018d3733c6f63a555c00bbb19369a9cd3a9e030a7bee127f5588cc70"
+        },
+        {
+          "index": 16,
+          "name": "00_精修三_主图与选择",
+          "id": "dvca_revision3",
+          "objects": 1164,
+          "xml_sha256": "b68576b8b7bb24bb1fcad9bca4986e933aa3cf6919c61d1b1d1adf5bda1f3551"
+        },
+        {
+          "index": 17,
+          "name": "00_按标注精修_主图与备选",
+          "id": "dvca_revision2",
+          "objects": 1721,
+          "xml_sha256": "b20767108cb4b8f757129e329bf8150e82ad150792f31f9ff38c24c68e8c3c17"
+        },
+        {
+          "index": 18,
+          "name": "01_头图_A",
+          "id": "dvca_teaser_A",
+          "objects": 453,
+          "xml_sha256": "a4fa08e89cd5902dd59c34fcab236d8354fa286146bbe030bdb8c3ba0045edc0"
+        },
+        {
+          "index": 19,
+          "name": "02_备选与组件",
+          "id": "dvca_teaser_options",
+          "objects": 869,
+          "xml_sha256": "5731b39a3e63485fc74a254b77639accd044b71de8c49113b5165096d41bedfd"
+        },
+        {
+          "index": 20,
+          "name": "03_原始草稿",
+          "id": "20z35sGlRyBVIhc6HiUq",
+          "objects": 159,
+          "xml_sha256": "30f16185386a1c3dfa6124eb162c9d816fad3ac9d0391e80e3cc34ed7a9af244"
+        }
+      ]
+    },
+    {
+      "name": "dvca main 0914.drawio",
+      "category": "paper",
+      "bytes": 47691503,
+      "sha256": "62a89348b1b154e019072fb92835a89a863be8be3f101949397ffd1017ba722f",
+      "page_count": 13,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_主图符号字体统一_0924",
+          "id": "main_symbol_font0924",
+          "objects": 420,
+          "xml_sha256": "0b65bb518ad3cfa72592d7e90af48f31edd754211f2b5153f80fd83cc6f4084f"
+        },
+        {
+          "index": 1,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_main",
+          "objects": 420,
+          "xml_sha256": "cd07e67f6bff04c0c171b9df2dd6a830279501fb12ecd470e018e6b74da5e0b0"
+        },
+        {
+          "index": 2,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_main",
+          "objects": 420,
+          "xml_sha256": "f5e3560e285e621c2b4f833822c215d19b9227b0490f41280526480897183400"
+        },
+        {
+          "index": 3,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_main",
+          "objects": 423,
+          "xml_sha256": "e1ba122bfd922528add3fb3966ffb6acb1377b29949eb4f561d87d741f5767be"
+        },
+        {
+          "index": 4,
+          "name": "00_精修八_公式间距与导出_0915",
+          "id": "dvca-main-r8-0915",
+          "objects": 422,
+          "xml_sha256": "0b640f5f0926cb46dceb5cc741a319cda0b9083e1f9cac3d1a0d35baeb388e22"
+        },
+        {
+          "index": 5,
+          "name": "00_精修七_四框对齐与间距_0915",
+          "id": "dvca-main-r7-0915",
+          "objects": 415,
+          "xml_sha256": "0c238c469253d785d8f7cef70833ef1709c2fcde4ad79d540ddd0bdb50de6765"
+        },
+        {
+          "index": 6,
+          "name": "00_精修六_符号与缩放面板_0915",
+          "id": "dvca-main-r6-0915",
+          "objects": 665,
+          "xml_sha256": "c8b5a3370cae83c8823678c59af318c62c48fe3c4ff3aec09c87a7ef6043d16e"
+        },
+        {
+          "index": 7,
+          "name": "00_精修五_原生连线_0915",
+          "id": "dvca-main-r5-0915",
+          "objects": 416,
+          "xml_sha256": "a2464a012bf59284082d8dc9bf85adfcb72b62e2d04b235103bfb0bfb771d12e"
+        },
+        {
+          "index": 8,
+          "name": "00_精修四_字体与优势符号_0915",
+          "id": "dvca-main-r4-20260915",
+          "objects": 436,
+          "xml_sha256": "702b0b0adb20537aadba4979895e675a3142e1afec374c67a88eb888ff3f5162"
+        },
+        {
+          "index": 9,
+          "name": "01_环境与验证器_四种候选_0915",
+          "id": "dvca-main-environment-options-20260915",
+          "objects": 75,
+          "xml_sha256": "d85ab6145c54952404cc207de8dcb0cd80ccf6384220ca83d9d45cfc9be8e79b"
+        },
+        {
+          "index": 10,
+          "name": "00_精修二_自由编辑与方案_0915",
+          "id": "dvca-main-r2-20260915",
+          "objects": 1102,
+          "xml_sha256": "176b10d414e8dfe8f89daa06a310f5f91b6269d12af6eada471208e91ff1dd2d"
+        },
+        {
+          "index": 11,
+          "name": "00_批注处理_字体与信号_0915",
+          "id": "dvca-main-comments-20260915",
+          "objects": 987,
+          "xml_sha256": "f9aa274182763f5079dfdbc3e0a90f63eb154fb602d7ac037547d33a5126fe57"
+        },
+        {
+          "index": 12,
+          "name": "第 1 页",
+          "id": "1XGkB15_KWZJgTvzqXXi",
+          "objects": 890,
+          "xml_sha256": "59fd8106dcabc48039fc065bb0ce0ba071fefdaaaf3db92dd3565ca9849c7f8d"
+        }
+      ]
+    },
+    {
+      "name": "dvca pcode 0915.drawio",
+      "category": "paper",
+      "bytes": 16831232,
+      "sha256": "414d096a3dd2dc508dea3372279cc50801a9e35b69f2806ec2c68b244794685d",
+      "page_count": 12,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_下划线字号微调_0922",
+          "id": "legendunderscore0922_pcode",
+          "objects": 44,
+          "xml_sha256": "e7435e0e5da6f95b27f750c12361731d320a3225c1177e1a01c551414525588f"
+        },
+        {
+          "index": 1,
+          "name": "00_下划线字体补齐_0922",
+          "id": "pcodeunderscore0922",
+          "objects": 44,
+          "xml_sha256": "2de4b0368f085954f2b8f189040a084047df33adba1dc5201cd160a4c70de0e9"
+        },
+        {
+          "index": 2,
+          "name": "00_行距与下伸部修复_0922",
+          "id": "revision0922_pcode",
+          "objects": 44,
+          "xml_sha256": "376cc709a6e8fee121ea8e229e7b0b96b1df78e3617e8ef1e445fa0670f6312c"
+        },
+        {
+          "index": 3,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_pcode",
+          "objects": 44,
+          "xml_sha256": "de8e169564bd4cd9dc5220f14a42003fddb976627d1700dc72d79e957c66f1c8"
+        },
+        {
+          "index": 4,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_pcode",
+          "objects": 44,
+          "xml_sha256": "c0d346c7ed024cbaf4ca722d7308ff5d52339eea271b38431b15dc743ff5fdb0"
+        },
+        {
+          "index": 5,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_pcode",
+          "objects": 45,
+          "xml_sha256": "edc59e77214d39af3855ed4e635ed9573c6758c935ff6b3cbe48cb58877a3b3f"
+        },
+        {
+          "index": 6,
+          "name": "00_DVCA_pcode_收紧宽度与导出",
+          "id": "dvca-pcode-revision6",
+          "objects": 45,
+          "xml_sha256": "c0331027fe53645a139568b759be36626a2568dc60c08244bb37037ec132722c"
+        },
+        {
+          "index": 7,
+          "name": "00_DVCA_rollout_紧凑行距",
+          "id": "dvca-pcode-revision5",
+          "objects": 46,
+          "xml_sha256": "b7db949afcb5909bf18175bf92232ef384fa0ad4f3f1555fc15c06cbebb596f8"
+        },
+        {
+          "index": 8,
+          "name": "00_DVCA_rollout_统一框与命名",
+          "id": "dvca-pcode-revision4",
+          "objects": 900,
+          "xml_sha256": "4cad712335dc6c5e46a2c7ac462eceea07068d723deedac21dc5ee27ad3d42ab"
+        },
+        {
+          "index": 9,
+          "name": "00_DVCA_rollout_批注修订",
+          "id": "dvca-pcode-revision3",
+          "objects": 901,
+          "xml_sha256": "d1ba18b56de4d9c480d8f1d3d617713e18df8aa5d5fdc63163a852298f646953"
+        },
+        {
+          "index": 10,
+          "name": "01_SimpleVLA-RL_原例与粒度",
+          "id": "dvca-pcode-ref",
+          "objects": 864,
+          "xml_sha256": "17ed9e0395b27551e2801a4097e871a8c2970b4e9801151f96fd29a7eb671c8b"
+        },
+        {
+          "index": 11,
+          "name": "02_DVCA_交互循环与绿色新增",
+          "id": "dvca-pcode-proposal",
+          "objects": 893,
+          "xml_sha256": "151cccf1e595361d43c11139b46bfe0965d717e659a62f6f98b0c680627ff0d2"
+        }
+      ]
+    },
+    {
+      "name": "dvca prm case 0923.drawio",
+      "category": "paper",
+      "bytes": 219623,
+      "sha256": "201848b877a3d3e96f95622a1d596069f2e366f3a74f0c091744297afae45897",
+      "page_count": 1,
+      "pages": [
+        {
+          "index": 0,
+          "name": "RynnValue case - R87",
+          "id": "prm-r87-case",
+          "objects": 56,
+          "xml_sha256": "b1e51257a06786b3c52bf225c3db20aac7e66adfff12890eaaf74586b82d903d"
+        }
+      ]
+    },
+    {
+      "name": "dvca real chart 0916.drawio",
+      "category": "paper",
+      "bytes": 25159986,
+      "sha256": "20ad9060aea3e124008e5d4f343fc3a3dc03d337c7f526904e5fa9b9cf67123a",
+      "page_count": 10,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_柱距与刻度对齐_0926",
+          "id": "bar-spacing-20260926",
+          "objects": 170,
+          "xml_sha256": "e84b707054ee4fccc2ee14fef99c81b2f53de3b73bedeef2d77730501fb7d384"
+        },
+        {
+          "index": 1,
+          "name": "00_VGPO配色统一_0922",
+          "id": "realcolors0922_bar",
+          "objects": 170,
+          "xml_sha256": "b3ccea98a10302ab74fbec5daeaf02ec4cecbd9f8b8a4ad727c198115564e7ab"
+        },
+        {
+          "index": 2,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_bar",
+          "objects": 170,
+          "xml_sha256": "2281cb41ca3fc88da5641d61e98811477a7ac7fb5e92f43f2468429a6e962e08"
+        },
+        {
+          "index": 3,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_bar",
+          "objects": 170,
+          "xml_sha256": "9f4c463c00ce47e073c8eb36dad2d533f42067d0c83b3d231df541dc3b691907"
+        },
+        {
+          "index": 4,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_bar",
+          "objects": 170,
+          "xml_sha256": "f3d588d1bd973521a83d79b1cd52f6c19632daa502a7c81a81cb2c0c892be370"
+        },
+        {
+          "index": 5,
+          "name": "01_真机柱状图_连续背景_0917",
+          "id": "real_bar_continuous_background_20260917",
+          "objects": 173,
+          "xml_sha256": "45471a9d04280f3ae4e587fef650fd4d26a09c39b02baf92292615272d840f7d"
+        },
+        {
+          "index": 6,
+          "name": "01_真机柱状图_成功率1_0917",
+          "id": "real_chart_data_revision_20260917",
+          "objects": 172,
+          "xml_sha256": "545388f903489a42ab48048163b5178c03260796e17af02199666e2e7a8e836d"
+        },
+        {
+          "index": 7,
+          "name": "01_真机柱状图_恢复阴影_0917",
+          "id": "real_chart_shadow_revision_20260917",
+          "objects": 246,
+          "xml_sha256": "288d77e0c1028c6acad2aa5a02377e26611d7ca69a235ce08feda3092033f597"
+        },
+        {
+          "index": 8,
+          "name": "01_真机柱状图_批注处理_0916",
+          "id": "real_chart_revision_20260916",
+          "objects": 215,
+          "xml_sha256": "92e362f196626c2230f13c8ce0e1ca0f21bd39d44d3827b1c63eba28aff9cfb6"
+        },
+        {
+          "index": 9,
+          "name": "第 1 页",
+          "id": "4w2tCwyrTp5xep3Y6rZY",
+          "objects": 173,
+          "xml_sha256": "537b1b745c5f5189b28e6a1bc867ee8d370bdbfab6606f447e99e4271de026ce"
+        }
+      ]
+    },
+    {
+      "name": "dvca real sample chart 0916.drawio",
+      "category": "paper",
+      "bytes": 24708647,
+      "sha256": "affba384e452644adc1649be20ee895a1442cb2351f707353457feffd83eebf8",
+      "page_count": 10,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_图例顺序统一_0922",
+          "id": "legendunderscore0922_sample",
+          "objects": 166,
+          "xml_sha256": "64a80f64ae4572f93051b62449512c916ecf33a240629bfe4f0b14242fce42cb"
+        },
+        {
+          "index": 1,
+          "name": "00_VGPO配色统一_0922",
+          "id": "realcolors0922_sample",
+          "objects": 166,
+          "xml_sha256": "701cbc300725330399ce032f592cef26cd8228c7193bcb25facbcfc414e378d3"
+        },
+        {
+          "index": 2,
+          "name": "00_字体曲线与批注修复_0920",
+          "id": "fix20260920_sample",
+          "objects": 166,
+          "xml_sha256": "3e105b1b4daf16dc6274b7c6d673bcfe62a444da265524ab0ef20f7c1a9850a2"
+        },
+        {
+          "index": 3,
+          "name": "00_批注定稿与导出_0920",
+          "id": "publish20260920_sample",
+          "objects": 166,
+          "xml_sha256": "ad974be82a3cdd6b6b7f49c0b91f949225f59c3ead25398397a19d410c647a38"
+        },
+        {
+          "index": 4,
+          "name": "00_批注修订_0920",
+          "id": "rev20260920_sample",
+          "objects": 166,
+          "xml_sha256": "f96ab18303db5800bedb99b7214820d5679826f8dede3e7ed7e4e44e8d3f8ba0"
+        },
+        {
+          "index": 5,
+          "name": "01_采样曲线_自适应纵轴_0917",
+          "id": "sample_adaptive_20260917",
+          "objects": 168,
+          "xml_sha256": "2eebd0cec191eea9f449852104feeec6d71773ac8d4d1246ff6356489b476b54"
+        },
+        {
+          "index": 6,
+          "name": "01_采样曲线_填写数据_0917",
+          "id": "sample_data_20260917",
+          "objects": 137,
+          "xml_sha256": "39236df64b86f4a4fa704c11b8359f9f45de3489c4564d0173949329906040fa"
+        },
+        {
+          "index": 7,
+          "name": "01_四任务采样曲线_批注处理_0917",
+          "id": "sample_revision_20260917",
+          "objects": 139,
+          "xml_sha256": "96dc3cb65e8a02dbabca221bc5b450b848a09480adf2e22b2878129971e42960"
+        },
+        {
+          "index": 8,
+          "name": "01_真机采样曲线_批注处理_0916",
+          "id": "real_sample_revision_20260916",
+          "objects": 135,
+          "xml_sha256": "adc7349cc1c4cc7e2513d36a5ffe2e7f93177cc59dcc77e7c03c86ac2051acf7"
+        },
+        {
+          "index": 9,
+          "name": "第 1 页",
+          "id": "xWzny0jA6l9vUI_WAh9q",
+          "objects": 394,
+          "xml_sha256": "71cd4227c77ce3c3472fa2faa94d270ee6117fbeabed38f10485bec1166ca780"
+        }
+      ]
+    },
+    {
+      "name": "dv_training_and_bc8_trials.drawio",
+      "category": "paper",
+      "bytes": 34661421,
+      "sha256": "4ebfe38a38f398cb7cff6be27bc129bd98b482f7e2c666486b0b25a453adf818",
+      "page_count": 16,
+      "pages": [
+        {
+          "index": 0,
+          "name": "0925 曲线风格对齐",
+          "id": "training_line_style_20260925",
+          "objects": 35,
+          "xml_sha256": "68d595582f3e921f2fc1efe1c647175a9cb54de11f64349c0aa95aa47b5c4064"
+        },
+        {
+          "index": 1,
+          "name": "01_GRPO_紧凑图例_0925",
+          "id": "legend_compact_grpo_20260925",
+          "objects": 29,
+          "xml_sha256": "ad20a949f5ebced74336a8dd7edfd13e685788082badd0898c4c5877606df8c2"
+        },
+        {
+          "index": 2,
+          "name": "02_Filter_IL_紧凑图例_0925",
+          "id": "legend_compact_bc_20260925",
+          "objects": 35,
+          "xml_sha256": "8cc95f018deeb04303bef463f7d010465a42ec403ac473aab42f3f0bd2485c54"
+        },
+        {
+          "index": 3,
+          "name": "01_GRPO_DV集中程度_更新",
+          "id": "20260925_grpo_top20",
+          "objects": 29,
+          "xml_sha256": "84077ee12edd04c5c1a3a137d0c3ce3600107f6c65e9faa3a9d3408267e230c9"
+        },
+        {
+          "index": 4,
+          "name": "02_Filter_IL_8U5_前100步",
+          "id": "20260925_filter_il8u5",
+          "objects": 35,
+          "xml_sha256": "8c32ab627fbb4de691c99d4935c18cc165f472a1fb674239c6095b8b1a38281d"
+        },
+        {
+          "index": 5,
+          "name": "filter_il_8u5_0923_eval",
+          "id": "filter_il_8u5_0923_eval",
+          "objects": 34,
+          "xml_sha256": "df305cf3d3ed14e25ee4640cb70629bcbf672848870043532c8ccaef38b7eb36"
+        },
+        {
+          "index": 6,
+          "name": "grpo_mean",
+          "id": "grpo_mean",
+          "objects": 30,
+          "xml_sha256": "1e35991d46fc9e20d333dcfbb0c58bf3a71b81dbf4428d08f56759eb09a33295"
+        },
+        {
+          "index": 7,
+          "name": "grpo_top20",
+          "id": "grpo_top20",
+          "objects": 30,
+          "xml_sha256": "a46d94b5ddde2d4d862861cda0d803e2cc2cc22421cfd4504a0f64680945819a"
+        },
+        {
+          "index": 8,
+          "name": "grpo_ess_fraction",
+          "id": "grpo_ess_fraction",
+          "objects": 30,
+          "xml_sha256": "d44fc102d6b83efb208d8f70c30d93160d445424adf50c307c82680e7c2e1ea3"
+        },
+        {
+          "index": 9,
+          "name": "rlt_turn_mean",
+          "id": "rlt_turn_mean",
+          "objects": 34,
+          "xml_sha256": "11c7dd67369ba9b6ceb886f13788d27ee1153dbc14e7379c2ebb763d03fefcf7"
+        },
+        {
+          "index": 10,
+          "name": "rlt_turn_episode_top20_mass",
+          "id": "rlt_turn_episode_top20_mass",
+          "objects": 28,
+          "xml_sha256": "2d15362a4015cf60dad1ea57dbecab942e3c268931f4730ddf38fac51296d0c2"
+        },
+        {
+          "index": 11,
+          "name": "rlt_turn_episode_ess_fraction",
+          "id": "rlt_turn_episode_ess_fraction",
+          "objects": 32,
+          "xml_sha256": "c7523dfdfa4b80f240c080af2222186f1d23698ec7496d2941f7cdc07f7f0515"
+        },
+        {
+          "index": 12,
+          "name": "rlt_can_mean",
+          "id": "rlt_can_mean",
+          "objects": 34,
+          "xml_sha256": "c8f8504c96d5851aa2171fb555bf8f9310cb4863ec3dfec64a56ca79e4a0e85b"
+        },
+        {
+          "index": 13,
+          "name": "rlt_can_episode_top20_mass",
+          "id": "rlt_can_episode_top20_mass",
+          "objects": 28,
+          "xml_sha256": "a7ce14226e4bf367395de4a45456f00c8ab05f16a03dfb6ca658f24286dc6767"
+        },
+        {
+          "index": 14,
+          "name": "rlt_can_episode_ess_fraction",
+          "id": "rlt_can_episode_ess_fraction",
+          "objects": 32,
+          "xml_sha256": "3da1d0b3628218f33bccdfd57689829d42e6151361c38f78448a020b289c34ed"
+        },
+        {
+          "index": 15,
+          "name": "filter_il_8u5_0923_collection",
+          "id": "filter_il_8u5_0923_collection",
+          "objects": 36,
+          "xml_sha256": "df574183f22e91d154d98c53d308b750844f3adc0cda3045ceeb8778d4a2ade6"
+        }
+      ]
+    },
+    {
+      "name": "DV_选中14例_20260925.drawio",
+      "category": "paper",
+      "bytes": 11385738,
+      "sha256": "2b964025dfa7087aec0d9a4224a81d304727e54bd4f9658eab0e01bf9b737dcb",
+      "page_count": 3,
+      "pages": [
+        {
+          "index": 0,
+          "name": "0925 曲线风格对齐",
+          "id": "cases_line_style_20260925",
+          "objects": 1138,
+          "xml_sha256": "9d801cb257aab5c6a19b8adc8da169fb102bf04ac0157d630d5517279970e10f"
+        },
+        {
+          "index": 1,
+          "name": "0925 标题留白收紧 · 14例",
+          "id": "title-gap-tightened-20260925-selected",
+          "objects": 1138,
+          "xml_sha256": "1b18d2a000f9c27096f695dd071808027aaae354e5243e4e21bacbe2f5b08da0"
+        },
+        {
+          "index": 2,
+          "name": "00_Selected_14_cases",
+          "id": "selected_dv_cases_20260925",
+          "objects": 1138,
+          "xml_sha256": "aebfee81709f3513072fa81322d1fbecdb2c199f1476ac313ed825bf281aa99b"
+        }
+      ]
+    },
+    {
+      "name": "ODPR_Fig1_素材.drawio",
+      "category": "reference",
+      "bytes": 932176,
+      "sha256": "54ae74035f92e1bf374c5c1a89ca8a0096d7359fee47883e633f7ee07862aa59",
+      "page_count": 1,
+      "pages": [
+        {
+          "index": 0,
+          "name": "ODPR_Fig1",
+          "id": "ODPR",
+          "objects": 468,
+          "xml_sha256": "eaacd73b5cf62ce70b28187fd50e76b56460c5da284bef24a17d760030136cae"
+        }
+      ]
+    },
+    {
+      "name": "turn_switch_world_选帧_0915.drawio",
+      "category": "reference",
+      "bytes": 386328,
+      "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+      "page_count": 1,
+      "pages": [
+        {
+          "index": 0,
+          "name": "Aloha全景帧选择",
+          "id": "turn_switch_world_frames",
+          "objects": 24,
+          "xml_sha256": "6a17a486753865a74fed9299471651913f4dcb11f561fc4283aea269e7b46b34"
+        }
+      ]
+    },
+    {
+      "name": "主图素材.drawio",
+      "category": "reference",
+      "bytes": 15449356,
+      "sha256": "957c6f63c7c55fdb7142a3d6a80081948ecc6fa18f1930b42c6ee1aa4b89f048",
+      "page_count": 9,
+      "pages": [
+        {
+          "index": 0,
+          "name": "01_VL-Calibration_信号到训练",
+          "id": "main-precise-01",
+          "objects": 206,
+          "xml_sha256": "1948c13b01ae3be4f25bd92f46edefccc89f98ae52dd907a21a1bb29f66f95ca"
+        },
+        {
+          "index": 1,
+          "name": "02_VGPO_信号与优势重加权",
+          "id": "main-precise-02",
+          "objects": 660,
+          "xml_sha256": "b719edeef854b5986dbdcb9a43c00a7e1b1f8c09b14240095e0819316c9e313d"
+        },
+        {
+          "index": 2,
+          "name": "03_SimpleVLA-RL_流程",
+          "id": "main-precise-03",
+          "objects": 224,
+          "xml_sha256": "576bb8e727dd7e97898ac823a279f756cecafc036440f3366e7ad8b1e398a676"
+        },
+        {
+          "index": 3,
+          "name": "04_SimpleVLA-RL_伪代码",
+          "id": "main-precise-04",
+          "objects": 860,
+          "xml_sha256": "d565616519b6ba4248f982de3f9ea55f0689d59e1de455e99a577b52ac07b953"
+        },
+        {
+          "index": 4,
+          "name": "05_πRL_两种critic位置",
+          "id": "main-precise-05",
+          "objects": 479,
+          "xml_sha256": "8339322c530c950ec55dfe55a7f1170c5cd869e41b1abe56e24e4dc959266c8e"
+        },
+        {
+          "index": 5,
+          "name": "06_RL-Token_π模型",
+          "id": "main-precise-06",
+          "objects": 247,
+          "xml_sha256": "7e00847b6a7cdc7aa84d9bf13292a59d9dfce685f8f989549709b5efcaecc49c"
+        },
+        {
+          "index": 6,
+          "name": "07_Fast-WAM_完整架构与mask",
+          "id": "main-precise-07",
+          "objects": 458,
+          "xml_sha256": "c718f34c5127921e1c756c500a80617c805f4750858980cc5280206b0f63c490"
+        },
+        {
+          "index": 7,
+          "name": "08_AHA-WAM_完整架构与mask",
+          "id": "main-precise-08",
+          "objects": 1278,
+          "xml_sha256": "a2fc44833020b832f7317534e98c2ecd86d552401715dcf11dfd862e944f8b46"
+        },
+        {
+          "index": 8,
+          "name": "09_Turn Switch_三相机候选",
+          "id": "turn-switch-three-cameras-20260915",
+          "objects": 76,
+          "xml_sha256": "019e8ca8892dd2e407c464d9b23b5a1cb4f192542a69febb04fb2de456e36325"
+        }
+      ]
+    },
+    {
+      "name": "头图素材.drawio",
+      "category": "reference",
+      "bytes": 144441181,
+      "sha256": "ba91c67e024f6d90b05e865b7326fe8d0dcb53459a9adee1fc1345041362a7e1",
+      "page_count": 9,
+      "pages": [
+        {
+          "index": 0,
+          "name": "01_参考元素",
+          "id": "library_references",
+          "objects": 489,
+          "xml_sha256": "d3aa29b1d98859544148547d58a4fa0b7809ffab149a14b6437ebfaa3e0d076f"
+        },
+        {
+          "index": 1,
+          "name": "02_DV案例",
+          "id": "library_dv",
+          "objects": 486,
+          "xml_sha256": "c2509fa20e8e0ba5500ef3bfa237a8e92e09860fe071a4ba9c6866303f925a7a"
+        },
+        {
+          "index": 2,
+          "name": "03_RLT曲线",
+          "id": "library_rlt",
+          "objects": 810,
+          "xml_sha256": "57a31032b3ffb3b1f41560da53957f9b5cc31843a24e360604425a4d3abab824"
+        },
+        {
+          "index": 3,
+          "name": "04_BC曲线",
+          "id": "library_bc",
+          "objects": 784,
+          "xml_sha256": "0e95318c1d21b03c82560c329cd5a33575fd7f7235fa0bd60dfbba0940100b83"
+        },
+        {
+          "index": 4,
+          "name": "05_真机图片",
+          "id": "library_real",
+          "objects": 195,
+          "xml_sha256": "ac31618f5ee4ad3baa4af9f68f99e734d16fdb35a1984fbfb8fc34b6f5370de4"
+        },
+        {
+          "index": 5,
+          "name": "06_仿真图片",
+          "id": "library_sim",
+          "objects": 92,
+          "xml_sha256": "8dec95140576d833fa8aea8bb46670aeddc28b82e5b9cfb9bccdc45135a7a21b"
+        },
+        {
+          "index": 6,
+          "name": "07_论文与DV原帧",
+          "id": "library_originals",
+          "objects": 100,
+          "xml_sha256": "83d772211a6efc66ef3eff7ccf0d73063016812b4b9c9976e9d1a7f8a43224a2"
+        },
+        {
+          "index": 7,
+          "name": "第 8 页",
+          "id": "r5BebI5Eq80LZuct_pN3",
+          "objects": 24,
+          "xml_sha256": "03e8c6b215fd03e05cbbbfbac3b6c54369284561e22dd5b929209c455e79f77c"
+        },
+        {
+          "index": 8,
+          "name": "ODPR Fig.1",
+          "id": "odpr-fig1-final-20260914",
+          "objects": 468,
+          "xml_sha256": "4f693317dc5ff911e8b0515f2a04a35702a7fb5befd514447a764c2a68c5e84b"
+        }
+      ]
+    },
+    {
+      "name": "dv_by_action_position_20260926.drawio",
+      "category": "paper",
+      "bytes": 145986,
+      "sha256": "6382bc7859d557d1a805e517010cff7c6d372ff7f8103d2bcdf2620169d11295",
+      "page_count": 3,
+      "pages": [
+        {
+          "index": 0,
+          "name": "00_Denoising_Variance_axis_0926",
+          "id": "dv27_axis",
+          "objects": 104,
+          "xml_sha256": "898b35d2b1196f8568837fb3cb9a9203b4a7b753ff945a2f04197b380db03993"
+        },
+        {
+          "index": 1,
+          "name": "00_Selected_Action_Positions_20260926",
+          "id": "dv_slot21",
+          "objects": 104,
+          "xml_sha256": "ee96999dffdb0cdcd29115b45e0f4360d22fc7ea8bc93158ed32ee4e34f07366"
+        },
+        {
+          "index": 2,
+          "name": "Previous_00_DV_by_action_position",
+          "id": "dv_slot19",
+          "objects": 101,
+          "xml_sha256": "c5318bff5542b6289159573a5103d0826340923e880eeb4ea57b3b94b6b3f80c"
+        }
+      ]
+    }
+  ],
+  "release_assets": [
+    {
+      "file": "drawio-paper-complete-20260927.zip",
+      "bytes": 345346478,
+      "sha256": "13fa009a7f8dccad3dba4dae79c801825a0d638b5354fc01b88832b4bbb4b66f",
+      "source_count": 12
+    },
+    {
+      "file": "drawio-reference-complete-20260927.zip",
+      "bytes": 218810970,
+      "sha256": "597ceb73bd59088ba5f2bc0006e8ae510c5d66a9aa4c2333f30894cc62e041ec",
+      "source_count": 6
+    }
+  ]
+}
